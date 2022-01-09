@@ -1,0 +1,31 @@
+{
+    "products": {
+        "product1": {
+            "title": "Ayush - MultiPurpose Theme",
+            "type": "Theme",
+            "desc": "Ayush is a MultiPurpose WordPress theme with Elementor Page Builder and WooCommerce",
+            "icon": "https://huro.cssninja.io/assets/img/icons/files/pdf.svg",
+            "buylink": "https://gloriousmotive.com/products/ayush",
+            "settingslink": "https://demo.gloriousthemes.com/ayush",
+            "hosted": "Envato"
+        },
+        "product2": {
+            "title": "Nihal - WooCommerce Theme",
+            "type": "Theme",
+            "desc": "Nihal is a Clean, Fast and User Friendly WooCommerce Theme for WordPress",
+            "icon": "https://huro.cssninja.io/assets/img/icons/files/ppt.svg",
+            "buylink": "https://gloriousmotive.com/products/nihal",
+            "settingslink": "https://demo.gloriousthemes.com/nihal",
+            "hosted": "Envato"
+        },
+        "product3": {
+            "title": "Glorious",
+            "type": "Plugin",
+            "desc": "Core Plugin for all WordPress Themes by GloriousMotive",
+            "icon": "https://huro.cssninja.io/assets/img/icons/files/pdf.svg",
+            "buylink": "https://gloriousmotive.com/products/",
+            "settingslink": "admin.php?page=gloriousdash-dashboard-products",
+            "hosted": "WordPress & Github"
+        }
+    }
+}
