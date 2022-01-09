@@ -1,0 +1,22 @@
+{
+    "products": {
+        "product1": {
+            "title": "Ayush Free",
+            "title2": "Theme",
+            "desc": "Ayush is a MultiPurpose WordPress theme with Elementor Page Builder and WooCommerce",
+            "icon": "https://raw.githubusercontent.com/GloriousThemes/glorious-fetch-products/main/assets/img/plugin-envato-market.png",
+            "buylink": "https://gloriousmotive.com/products/ayush",
+            "settingslink": "https://demo.gloriousthemes.com/ayush",
+            "cost": "Envato"
+        },
+        "product2": {
+            "title": "Nihal - WooCommerce Theme",
+            "type": "Theme",
+            "desc": "Nihal is a Clean, Fast and User Friendly WooCommerce Theme for WordPress",
+            "icon": "https://raw.githubusercontent.com/GloriousThemes/glorious-fetch-products/main/assets/img/plugin-w3-total-cache.png",
+            "buylink": "https://gloriousmotive.com/products/nihal",
+            "settingslink": "https://demo.gloriousthemes.com/nihal",
+            "cost": "Envato"
+        }
+    }
+}
