@@ -4,7 +4,7 @@
             "title": "Ayush - MultiPurpose Theme",
             "title2": "Theme",
             "desc": "Ayush is a MultiPurpose WordPress theme with Elementor Page Builder and WooCommerce",
-            "icon": "https://huro.cssninja.io/assets/img/icons/files/pdf.svg",
+            "icon": "https://raw.githubusercontent.com/GloriousThemes/glorious-fetch-products/main/assets/img/plugin-envato-market.png",
             "buylink": "https://gloriousmotive.com/products/ayush",
             "settingslink": "https://demo.gloriousthemes.com/ayush",
             "cost": "Envato"
@@ -13,7 +13,7 @@
             "title": "Nihal - WooCommerce Theme",
             "type": "Theme",
             "desc": "Nihal is a Clean, Fast and User Friendly WooCommerce Theme for WordPress",
-            "icon": "https://huro.cssninja.io/assets/img/icons/files/ppt.svg",
+            "icon": "https://raw.githubusercontent.com/GloriousThemes/glorious-fetch-products/main/assets/img/plugin-envato-market.png",
             "buylink": "https://gloriousmotive.com/products/nihal",
             "settingslink": "https://demo.gloriousthemes.com/nihal",
             "cost": "Envato"
@@ -22,7 +22,7 @@
             "title": "Glorious",
             "title2": "Plugin",
             "desc": "Core Plugin for all WordPress Themes by GloriousMotive",
-            "icon": "https://huro.cssninja.io/assets/img/icons/files/pdf.svg",
+            "icon": "https://raw.githubusercontent.com/GloriousThemes/glorious-fetch-products/main/assets/img/plugin-envato-market.png",
             "buylink": "https://gloriousmotive.com/products/",
             "settingslink": "admin.php?page=gloriousdash-dashboard-products",
             "cost": "WordPress & Github"
